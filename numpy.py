@@ -20,7 +20,7 @@ print(a1[2])
 print(a1[-1])
 
 # a) To get help on the add function
-print("Help on numoy.add function: ")
+print("Help on numpy.add function: ")
 help(np.add)
 
 # Creating arrays using array(),zeroes(),ones(),inspace()
